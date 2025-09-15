@@ -27,3 +27,8 @@ Una volta creata la Suite, il test partirà in automatico e puoi vedere il tempo
 
 Concluso il test, troverai eventuali errori premendo sul menu a sinistra(3). Inoltre, premendo su "Add Test Case" (4) puoi aggiungere altre istruzioni.
 > ![](images/Screenshot4.png)
+
+### Conclusioni
+- La *versione gratuita* di TestRigor è completa e permette di eseguire test senza troppe limitazioni.
+- È uno strumento utile per crere test rapidamente, anche senza conoscenze di programmazione.
+- Rispetto a framework come Cypress, è più immediamo ma meno personalizzabile.
