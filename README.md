@@ -1,6 +1,6 @@
 # testrigor-tests
 
-Questo repository documenta i test sperimentali eseguiti con TestRigor.
+Questo repository documenta come eseguire test end-to-end su un'applicazione web con TestRigor.
 
 ## Che cos'è TestRigor
 [TestRigor](https://testrigor.com) è uno strumento utilizzato per l'automazione dei test di siti web che permette di scrivere i casi d'uso necessari in linguaggio naturale.
